@@ -17,4 +17,4 @@ Repository containing the C++ code required for the Pressure Sensor Shield for A
 |[OLED Library](SparkFun_Micro_OLED_Arduino_Library-master.zip)|Library to enable the OLED display on the Pressure Sensor Shield|
 
 ---
-*Last updated 2020-01-19
+*Last updated 2020-01-19*
