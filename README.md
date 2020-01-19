@@ -6,6 +6,10 @@ Repository containing the C++ code required for the pressure measuring Arduino b
 * The readings are sampled straight from a 10-bit analog to digital converter and are therefore in a range of 0-1023
 * This range corresponds to an analog voltage range of 0-3.3VDC, such that 512 would indicate a reading of 1.65 volts.
 
+## Interface
+* This code prints the readings to the integrated OLED display for easy viewing without a PC terminal.
+* Additionally, this code prints the comma-separated readings to the serial port, configured at 115200 bps.
+
 ## Prerequisites
 |**Item**|**Description**|
 |:-------|:--------------|
