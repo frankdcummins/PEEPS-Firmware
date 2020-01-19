@@ -1,9 +1,9 @@
 # PEEPS-Firmware
-Repository containing the C++ code required for the Pressure Sensor Shield for Arduino.
+Repository containing the C++ code required for the Pressure Sensor Shield for Arduino
 
 ## Theory of Operation
-* This code will take readings from each sensor every 100 ms, or at a sampling frequency of 10Hz
-* The readings are sampled straight from a 10-bit analog to digital converter and are therefore in a range of 0-1023
+* This code will take readings from each sensor every 100 ms, or at a sampling frequency of 10Hz.
+* The readings are sampled straight from a 10-bit analog to digital converter and are therefore in a range of 0-1023.
 * This range corresponds to an analog voltage range of 0-3.3VDC, such that 512 would indicate a reading of 1.65 volts.
 
 ## Interface
