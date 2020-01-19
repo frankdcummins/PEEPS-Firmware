@@ -1,5 +1,5 @@
 # PEEPS-Firmware
-Repository containing the C++ code required for the pressure measuring Arduino board.
+Repository containing the C++ code required for the Pressure Sensor Shield for Arduino.
 
 ## Theory of Operation
 * This code will take readings from each sensor every 100 ms, or at a sampling frequency of 10Hz
